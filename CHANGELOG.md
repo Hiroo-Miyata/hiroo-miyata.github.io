@@ -94,7 +94,7 @@
 
 - Enable image popup on < 500px wide screens. [#385](https://github.com/mmistakes/minimal-mistakes/issues/385)
 - Indicate the relationship between component URLs in a paginated series by applying `rel="prev"` and `rel="next"` to pages that use `site.paginator`. [#253](https://github.com/mmistakes/minimal-mistakes/issues/253)
-- Improve link posts in archive listings. [#276](https://github.com/mmistakes/minimal-mistakes/issues/276)
+- Improve link research in archive listings. [#276](https://github.com/mmistakes/minimal-mistakes/issues/276)
 
 ### Maintenance
 
@@ -245,7 +245,7 @@
 
 ### Enhancements
 
-- Add translation key for "Recent Posts" used in home page `index.html`. [#316](https://github.com/mmistakes/minimal-mistakes/pull/316)
+- Add translation key for "Recent research" used in home page `index.html`. [#316](https://github.com/mmistakes/minimal-mistakes/pull/316)
 
 ### Maintenance
 
@@ -293,7 +293,7 @@
 
 ### Bug Fixes
 
-- Fix alignment issues with related posts [#273](https://github.com/mmistakes/minimal-mistakes/issues/273) and "Follow" button in author profile [#274](https://github.com/mmistakes/minimal-mistakes/issues/274).
+- Fix alignment issues with related research [#273](https://github.com/mmistakes/minimal-mistakes/issues/273) and "Follow" button in author profile [#274](https://github.com/mmistakes/minimal-mistakes/issues/274).
 
 ## [3.1.1](https://github.com/mmistakes/minimal-mistakes/releases/tag/3.1.1)
 
@@ -321,10 +321,10 @@
 - Replaced Grunt tasks with `npm` scripts.
 - Removed Google Fonts and replaced with system fonts to improve performance (they can be [added back](https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/) if desired)
 - Greatly improved [theme documentation](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/).
-- Increased the amount of sample posts, sample pages, and sample collections to throughly test the theme and edge-cases.
+- Increased the amount of sample research, sample pages, and sample collections to throughly test the theme and edge-cases.
 - Moved all sample content and assets out of `master` to keep it as clean as possible for forking.
 - Added new layouts for `splash` pages, archives for [`jekyll-archives`](https://github.com/jekyll/jekyll-archives) if enabled, and [`compress.html`](https://github.com/penibelst/jekyll-compress-html) to improve performance.
-- Added taxonomy links to posts (tags and categories).
+- Added taxonomy links to research (tags and categories).
 - Added optional "reading time" meta data.
 - Improved Liquid used for Twitter Cards and Open Graph data in `<head>`.
 - Improved `gallery` include helper and added `feature_row` for use with splash page layout.
@@ -374,7 +374,7 @@
 ### Bug Fixes
 
 - Remove http protocol from Google search form on sample 404 page
-- Only show related posts if there are one or more available
+- Only show related research if there are one or more available
 - Fix alignment of email address link in author sidebar
 
 ## [2.1.0](https://github.com/mmistakes/minimal-mistakes/releases/tag/2.1.0)
@@ -386,13 +386,13 @@
 ![social sharing buttons](https://cloud.githubusercontent.com/assets/1376749/5860522/d9f28a96-a22f-11e4-9b83-940a3a9a766a.png)
 
 - Add Soundcloud, YouTube ([#95](https://github.com/mmistakes/minimal-mistakes/pull/95)), Flickr ([#119](https://github.com/mmistakes/minimal-mistakes/pull/119)), and Weibo ([#116](https://github.com/mmistakes/minimal-mistakes/pull/116)) icons for use in author sidebar.
-- Fix typos in posts and documentation and remove references to Less
+- Fix typos in research and documentation and remove references to Less
 - Include note about Octopress gem being optional
 - Post author override support extended to the Atom feed ([#71](https://github.com/mmistakes/minimal-mistakes/pull/71))
 - Only include email address in feed if specified in `_config.yml` or author `_data`
 - Wrap all page content in `#main` to harmonize article and post index styles ([#86](https://github.com/mmistakes/minimal-mistakes/issues/86))
-- Include new sample feature images for posts and pages
-- Table of contents improvements: fix collapse toggle, indent nested elements, show on small screens, and create an `_include` for reusing in posts and pages.
+- Include new sample feature images for research and pages
+- Table of contents improvements: fix collapse toggle, indent nested elements, show on small screens, and create an `_include` for reusing in research and pages.
 - Include note about running Jekyll with `bundle exec` when using Bundler
 - Fix home page path in top navigation
 - Remove Google Authorship ([#120](https://github.com/mmistakes/minimal-mistakes/issues/120))

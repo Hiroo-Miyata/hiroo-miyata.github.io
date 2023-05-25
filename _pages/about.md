@@ -14,3 +14,7 @@ I have a dream to develop brain-computer-interface which empower human's cogniti
 
 News
 ======
+
+- 2023.05, I received "BME Reseach Excellence Award"
+- 2021.08, started my MS program at CMU
+
