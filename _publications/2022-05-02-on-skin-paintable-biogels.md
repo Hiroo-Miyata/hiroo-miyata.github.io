@@ -1,7 +1,7 @@
 ---
 title: "On-Skin paintable Bio gels for Long-Term High Fidelity Electroencephalographic Recording"
 collection: publications
-permalink: /publication/2022-05-02-on-skin-paintable-biogels
+permalink: /publications/on-skin-paintable-biogels
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-05-02
 venue: 'Science Advances'
