@@ -14,7 +14,7 @@ I have a dream to develop brain-computer-interface which empower human's cogniti
 
 News
 ======
-- 2026.4, I received "Zero Institute fellowship"
+- 2026.4, I was selected as a "Zero Scholar"
 - 2025.9, I received "JASSO fellowship"
 - 2024.9, I received "BRAVE fellowship"
 - 2023.11, I received "ANRI fellowship"
